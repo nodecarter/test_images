@@ -1,4 +1,4 @@
 test_images
 ===========
 
-![Test image](/images/test.jpg)
+![Test image](images/test.jpg)
